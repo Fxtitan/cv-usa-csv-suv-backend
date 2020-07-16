@@ -1,4 +1,6 @@
+const getTotalCasesByDay = (dateString, totalCases) => {
 
+}
 
 
 

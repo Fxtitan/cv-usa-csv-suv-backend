@@ -1,4 +1,6 @@
-
+const getTotalCases = (covidInfoRows) => {
+return covidInfoRows[4];
+}
 
 
 
